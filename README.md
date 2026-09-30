@@ -2,6 +2,8 @@
 
 PaperPilot is an AI-powered academic research assistant for discovering, analyzing, comparing, and exploring scientific literature.
 
+Live-Link: https://paperpilot-es3v.onrender.com
+
 ## Overview
 
 PaperPilot combines academic search APIs with Google's Gemini models to streamline the research workflow.
@@ -105,3 +107,4 @@ Citation counts can be checked using OpenAlex and Crossref, with fallback handli
                               |
                               v
                     AI Research Analysis
+      
