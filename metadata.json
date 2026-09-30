@@ -1,0 +1,6 @@
+{
+  "name": "PaperPilot",
+  "description": "AI-powered academic research assistant for literature discovery, multi-dimensional paper summarization, and comparative research synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
